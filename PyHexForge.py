@@ -1036,6 +1036,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Could not set ttk theme: {e}")
 
-    app = HexMapEditorApp(root)
-    root.mainloop()
-`
+app = HexMapEditorApp(root)
+root.mainloop()
