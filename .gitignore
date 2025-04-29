@@ -1,0 +1,37 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller files
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+.eggs/
+
+# Visual Studio Code settings
+.vscode/
+
+# Environment folders
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyHexForge specific
+PyHexForge_Setup.exe

@@ -1,0 +1,63 @@
+{
+    "0": [
+        "Desert",
+        "#facc15",
+        null,
+        {
+            "isWalkable": true,
+            "moveCost": 1
+        }
+    ],
+    "1": [
+        "Grass",
+        "#4ade80",
+        null,
+        {
+            "isWalkable": true
+        }
+    ],
+    "2": [
+        "Forest",
+        "#16a34a",
+        null,
+        {
+            "isWalkable": true,
+            "moveCost": 2
+        }
+    ],
+    "3": [
+        "Water",
+        "#38bdf8",
+        null,
+        {
+            "isWalkable": false,
+            "moveCost": 99
+        }
+    ],
+    "4": [
+        "Mountain",
+        "#a8a29e",
+        null,
+        {
+            "isWalkable": false,
+            "moveCost": 99
+        }
+    ],
+    "5": [
+        "Wall",
+        "#57534e",
+        null,
+        {
+            "isWalkable": false,
+            "moveCost": 99
+        }
+    ],
+    "6": [
+        "Merkaba",
+        "#804040",
+        "..\\..\\Pictures\\main-qimg-d6a1fe82fed61fe151d06fb5eacf304d-lq.jpg",
+        {
+            "isWalkable": true
+        }
+    ]
+}
